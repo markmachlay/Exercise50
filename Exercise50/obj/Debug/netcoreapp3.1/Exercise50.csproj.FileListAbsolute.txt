@@ -1,0 +1,13 @@
+C:\Users\mblma\source\repos\GrandCircusProjects\Exercise50\Exercise50\bin\Debug\netcoreapp3.1\Exercise50.exe
+C:\Users\mblma\source\repos\GrandCircusProjects\Exercise50\Exercise50\bin\Debug\netcoreapp3.1\Exercise50.deps.json
+C:\Users\mblma\source\repos\GrandCircusProjects\Exercise50\Exercise50\bin\Debug\netcoreapp3.1\Exercise50.runtimeconfig.json
+C:\Users\mblma\source\repos\GrandCircusProjects\Exercise50\Exercise50\bin\Debug\netcoreapp3.1\Exercise50.runtimeconfig.dev.json
+C:\Users\mblma\source\repos\GrandCircusProjects\Exercise50\Exercise50\bin\Debug\netcoreapp3.1\Exercise50.dll
+C:\Users\mblma\source\repos\GrandCircusProjects\Exercise50\Exercise50\bin\Debug\netcoreapp3.1\Exercise50.pdb
+C:\Users\mblma\source\repos\GrandCircusProjects\Exercise50\Exercise50\obj\Debug\netcoreapp3.1\Exercise50.csprojAssemblyReference.cache
+C:\Users\mblma\source\repos\GrandCircusProjects\Exercise50\Exercise50\obj\Debug\netcoreapp3.1\Exercise50.csproj.CoreCompileInputs.cache
+C:\Users\mblma\source\repos\GrandCircusProjects\Exercise50\Exercise50\obj\Debug\netcoreapp3.1\Exercise50.AssemblyInfoInputs.cache
+C:\Users\mblma\source\repos\GrandCircusProjects\Exercise50\Exercise50\obj\Debug\netcoreapp3.1\Exercise50.AssemblyInfo.cs
+C:\Users\mblma\source\repos\GrandCircusProjects\Exercise50\Exercise50\obj\Debug\netcoreapp3.1\Exercise50.dll
+C:\Users\mblma\source\repos\GrandCircusProjects\Exercise50\Exercise50\obj\Debug\netcoreapp3.1\Exercise50.pdb
+C:\Users\mblma\source\repos\GrandCircusProjects\Exercise50\Exercise50\obj\Debug\netcoreapp3.1\Exercise50.genruntimeconfig.cache
